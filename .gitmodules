@@ -13,3 +13,21 @@
 [submodule "CV/Segmentation/Semantic/TorchSeg"]
 	path = CV/Segmentation/Semantic/TorchSeg
 	url = https://github.com/ycszen/TorchSeg
+[submodule "CV/Segmentation/Semantic/JSIS3D/jsis3d"]
+	path = CV/Segmentation/Semantic/JSIS3D/jsis3d
+	url = https://github.com/pqhieu/jsis3d
+[submodule "CV/Segmentation/Semantic/FCN/fcn.berkeleyvision.org"]
+	path = CV/Segmentation/Semantic/FCN/fcn.berkeleyvision.org
+	url = https://github.com/shelhamer/fcn.berkeleyvision.org
+[submodule "CV/Segmentation/Semantic/3D-SIS/3D-SIS"]
+	path = CV/Segmentation/Semantic/3D-SIS/3D-SIS
+	url = https://github.com/Sekunde/3D-SIS
+[submodule "CV/Segmentation/Entity/Entity"]
+	path = CV/Segmentation/Entity/Entity
+	url = https://github.com/dvlab-research/Entity
+[submodule "CV/Segmentation/W-Net/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation"]
+	path = CV/Segmentation/W-Net/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation
+	url = https://github.com/Guru-Deep-Singh/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation
+[submodule "CV/Segmentation/W-Net/W-Net"]
+	path = CV/Segmentation/W-Net/W-Net
+	url = https://github.com/Ashish77IITM/W-Net
