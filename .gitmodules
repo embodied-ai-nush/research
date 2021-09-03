@@ -43,3 +43,21 @@
 [submodule "CV/Detection/EdgeNets/ESPNetv2-COREML"]
 	path = CV/Detection/EdgeNets/ESPNetv2-COREML
 	url = https://github.com/sacmehta/ESPNetv2-COREML
+[submodule "CV/Embodied/HRegNet/HRegNet"]
+	path = CV/Embodied/HRegNet/HRegNet
+	url = https://github.com/ispc-lab/HRegNet
+[submodule "CV/Embodied/D3Feat/D3Feat"]
+	path = CV/Embodied/D3Feat/D3Feat
+	url = https://github.com/XuyangBai/D3Feat
+[submodule "CV/Embodied/D3Feat/D3Feat.pytorch"]
+	path = CV/Embodied/D3Feat/D3Feat.pytorch
+	url = https://github.com/XuyangBai/D3Feat.pytorch
+[submodule "CV/Embodied/PU-Net/PU-GCN/PU-GCN"]
+	path = CV/Embodied/PU-Net/PU-GCN/PU-GCN
+	url = https://github.com/guochengqian/PU-GCN
+[submodule "CV/Embodied/PVCNN/pvcnn"]
+	path = CV/Embodied/PVCNN/pvcnn
+	url = https://github.com/mit-han-lab/pvcnn
+[submodule "CV/Embodied/RPMNet/RPMNet"]
+	path = CV/Embodied/RPMNet/RPMNet
+	url = https://github.com/yewzijian/RPMNet
