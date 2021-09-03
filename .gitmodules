@@ -1,0 +1,15 @@
+[submodule "CV/Noise/NoisyStudent/noisystudent"]
+	path = CV/Noise/NoisyStudent/noisystudent
+	url = https://github.com/google-research/noisystudent
+[submodule "CV/Noise/big_transfer"]
+	path = CV/Noise/big_transfer
+	url = https://github.com/google-research/big_transfer
+[submodule "CV/Noise/BiT/big_transfer"]
+	path = CV/Noise/BiT/big_transfer
+	url = https://github.com/google-research/big_transfer
+[submodule "CV/Noise/DarkLighter/DarkLighter"]
+	path = CV/Noise/DarkLighter/DarkLighter
+	url = https://github.com/vision4robotics/DarkLighter.git
+[submodule "CV/Segmentation/Semantic/TorchSeg"]
+	path = CV/Segmentation/Semantic/TorchSeg
+	url = https://github.com/ycszen/TorchSeg
