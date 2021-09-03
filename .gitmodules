@@ -31,3 +31,15 @@
 [submodule "CV/Segmentation/W-Net/W-Net"]
 	path = CV/Segmentation/W-Net/W-Net
 	url = https://github.com/Ashish77IITM/W-Net
+[submodule "CV/Detection/Pseudo-LiDAR/pseudo-LiDAR_e2e"]
+	path = CV/Detection/Pseudo-LiDAR/pseudo-LiDAR_e2e
+	url = https://github.com/mileyan/pseudo-LiDAR_e2e
+[submodule "CV/Segmentation/PointNet/pointnet"]
+	path = CV/Segmentation/PointNet/pointnet
+	url = https://github.com/nikitakaraevv/pointnet
+[submodule "CV/Detection/EdgeNets/EdgeNets"]
+	path = CV/Detection/EdgeNets/EdgeNets
+	url = https://github.com/sacmehta/EdgeNets
+[submodule "CV/Detection/EdgeNets/ESPNetv2-COREML"]
+	path = CV/Detection/EdgeNets/ESPNetv2-COREML
+	url = https://github.com/sacmehta/ESPNetv2-COREML
