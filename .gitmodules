@@ -61,3 +61,9 @@
 [submodule "CV/Embodied/RPMNet/RPMNet"]
 	path = CV/Embodied/RPMNet/RPMNet
 	url = https://github.com/yewzijian/RPMNet
+[submodule "CV/Segmentation/Semantic/ESPNet/EdgeNets/EdgeNets"]
+	path = CV/Segmentation/Semantic/ESPNet/EdgeNets/EdgeNets
+	url = https://github.com/sacmehta/EdgeNets
+[submodule "CV/Segmentation/Semantic/ESPNet/EdgeNets/ESPNetv2-COREML"]
+	path = CV/Segmentation/Semantic/ESPNet/EdgeNets/ESPNetv2-COREML
+	url = https://github.com/sacmehta/ESPNetv2-COREML
