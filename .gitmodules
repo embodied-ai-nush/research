@@ -1,69 +1,69 @@
-[submodule "Noise Handling/NoisyStudent/noisystudent"]
-	path = Noise Handling/NoisyStudent/noisystudent
+[submodule "Pre-Existing Literature/Noise Handling/NoisyStudent/noisystudent"]
+	path = Pre-Existing Literature/Noise Handling/NoisyStudent/noisystudent
 	url = https://github.com/google-research/noisystudent
-[submodule "Noise Handling/big_transfer"]
-	path = Noise Handling/big_transfer
+[submodule "Pre-Existing Literature/Noise Handling/big_transfer"]
+	path = Pre-Existing Literature/Noise Handling/big_transfer
 	url = https://github.com/google-research/big_transfer
-[submodule "Noise Handling/BiT/big_transfer"]
-	path = Noise Handling/BiT/big_transfer
+[submodule "Pre-Existing Literature/Noise Handling/BiT/big_transfer"]
+	path = Pre-Existing Literature/Noise Handling/BiT/big_transfer
 	url = https://github.com/google-research/big_transfer
-[submodule "Noise Handling/DarkLighter/DarkLighter"]
-	path = Noise Handling/DarkLighter/DarkLighter
+[submodule "Pre-Existing Literature/Noise Handling/DarkLighter/DarkLighter"]
+	path = Pre-Existing Literature/Noise Handling/DarkLighter/DarkLighter
 	url = https://github.com/vision4robotics/DarkLighter.git
-[submodule "Image Segmentation/Semantic/TorchSeg"]
-	path = Image Segmentation/Semantic/TorchSeg
+[submodule "Pre-Existing Literature/Image Segmentation/Semantic/TorchSeg"]
+	path = Pre-Existing Literature/Image Segmentation/Semantic/TorchSeg
 	url = https://github.com/ycszen/TorchSeg
-[submodule "Image Segmentation/Semantic/JSIS3D/jsis3d"]
-	path = Image Segmentation/Semantic/JSIS3D/jsis3d
+[submodule "Pre-Existing Literature/Image Segmentation/Semantic/JSIS3D/jsis3d"]
+	path = Pre-Existing Literature/Image Segmentation/Semantic/JSIS3D/jsis3d
 	url = https://github.com/pqhieu/jsis3d
-[submodule "Image Segmentation/Semantic/FCN/fcn.berkeleyvision.org"]
-	path = Image Segmentation/Semantic/FCN/fcn.berkeleyvision.org
+[submodule "Pre-Existing Literature/Image Segmentation/Semantic/FCN/fcn.berkeleyvision.org"]
+	path = Pre-Existing Literature/Image Segmentation/Semantic/FCN/fcn.berkeleyvision.org
 	url = https://github.com/shelhamer/fcn.berkeleyvision.org
-[submodule "Image Segmentation/Semantic/3D-SIS/3D-SIS"]
-	path = Image Segmentation/Semantic/3D-SIS/3D-SIS
+[submodule "Pre-Existing Literature/Image Segmentation/Semantic/3D-SIS/3D-SIS"]
+	path = Pre-Existing Literature/Image Segmentation/Semantic/3D-SIS/3D-SIS
 	url = https://github.com/Sekunde/3D-SIS
-[submodule "Image Segmentation/Entity/Entity"]
-	path = Image Segmentation/Entity/Entity
+[submodule "Pre-Existing Literature/Image Segmentation/Entity/Entity"]
+	path = Pre-Existing Literature/Image Segmentation/Entity/Entity
 	url = https://github.com/dvlab-research/Entity
-[submodule "Image Segmentation/W-Net/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation"]
-	path = Image Segmentation/W-Net/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation
+[submodule "Pre-Existing Literature/Image Segmentation/W-Net/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation"]
+	path = Pre-Existing Literature/Image Segmentation/W-Net/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation
 	url = https://github.com/Guru-Deep-Singh/Group-31-W-Net-A-Deep-Model-for-Fully-Unsupervised-Image-Segmentation
-[submodule "Image Segmentation/W-Net/W-Net"]
-	path = Image Segmentation/W-Net/W-Net
+[submodule "Pre-Existing Literature/Image Segmentation/W-Net/W-Net"]
+	path = Pre-Existing Literature/Image Segmentation/W-Net/W-Net
 	url = https://github.com/Ashish77IITM/W-Net
-[submodule "Object Detection/Pseudo-LiDAR/pseudo-LiDAR_e2e"]
-	path = Object Detection/Pseudo-LiDAR/pseudo-LiDAR_e2e
+[submodule "Pre-Existing Literature/Object Detection/Pseudo-LiDAR/pseudo-LiDAR_e2e"]
+	path = Pre-Existing Literature/Object Detection/Pseudo-LiDAR/pseudo-LiDAR_e2e
 	url = https://github.com/mileyan/pseudo-LiDAR_e2e
-[submodule "Image Segmentation/PointNet/pointnet"]
-	path = Image Segmentation/PointNet/pointnet
+[submodule "Pre-Existing Literature/Image Segmentation/PointNet/pointnet"]
+	path = Pre-Existing Literature/Image Segmentation/PointNet/pointnet
 	url = https://github.com/nikitakaraevv/pointnet
-[submodule "Object Detection/EdgeNets/EdgeNets"]
-	path = Object Detection/EdgeNets/EdgeNets
+[submodule "Pre-Existing Literature/Object Detection/EdgeNets/EdgeNets"]
+	path = Pre-Existing Literature/Object Detection/EdgeNets/EdgeNets
 	url = https://github.com/sacmehta/EdgeNets
-[submodule "Object Detection/EdgeNets/ESPNetv2-COREML"]
-	path = Object Detection/EdgeNets/ESPNetv2-COREML
+[submodule "Pre-Existing Literature/Object Detection/EdgeNets/ESPNetv2-COREML"]
+	path = Pre-Existing Literature/Object Detection/EdgeNets/ESPNetv2-COREML
 	url = https://github.com/sacmehta/ESPNetv2-COREML
-[submodule "Embodied AI/HRegNet/HRegNet"]
-	path = Embodied AI/HRegNet/HRegNet
+[submodule "Pre-Existing Literature/Embodied AI/HRegNet/HRegNet"]
+	path = Pre-Existing Literature/Embodied AI/HRegNet/HRegNet
 	url = https://github.com/ispc-lab/HRegNet
-[submodule "Embodied AI/D3Feat/D3Feat"]
-	path = Embodied AI/D3Feat/D3Feat
+[submodule "Pre-Existing Literature/Embodied AI/D3Feat/D3Feat"]
+	path = Pre-Existing Literature/Embodied AI/D3Feat/D3Feat
 	url = https://github.com/XuyangBai/D3Feat
-[submodule "Embodied AI/D3Feat/D3Feat.pytorch"]
-	path = Embodied AI/D3Feat/D3Feat.pytorch
+[submodule "Pre-Existing Literature/Embodied AI/D3Feat/D3Feat.pytorch"]
+	path = Pre-Existing Literature/Embodied AI/D3Feat/D3Feat.pytorch
 	url = https://github.com/XuyangBai/D3Feat.pytorch
-[submodule "Embodied AI/PU-Net/PU-GCN/PU-GCN"]
-	path = Embodied AI/PU-Net/PU-GCN/PU-GCN
+[submodule "Pre-Existing Literature/Embodied AI/PU-Net/PU-GCN/PU-GCN"]
+	path = Pre-Existing Literature/Embodied AI/PU-Net/PU-GCN/PU-GCN
 	url = https://github.com/guochengqian/PU-GCN
-[submodule "Embodied AI/PVCNN/pvcnn"]
-	path = Embodied AI/PVCNN/pvcnn
+[submodule "Pre-Existing Literature/Embodied AI/PVCNN/pvcnn"]
+	path = Pre-Existing Literature/Embodied AI/PVCNN/pvcnn
 	url = https://github.com/mit-han-lab/pvcnn
-[submodule "Embodied AI/RPMNet/RPMNet"]
-	path = Embodied AI/RPMNet/RPMNet
+[submodule "Pre-Existing Literature/Embodied AI/RPMNet/RPMNet"]
+	path = Pre-Existing Literature/Embodied AI/RPMNet/RPMNet
 	url = https://github.com/yewzijian/RPMNet
-[submodule "Image Segmentation/Semantic/ESPNet/EdgeNets/EdgeNets"]
-	path = Image Segmentation/Semantic/ESPNet/EdgeNets/EdgeNets
+[submodule "Pre-Existing Literature/Image Segmentation/Semantic/ESPNet/EdgeNets/EdgeNets"]
+	path = Pre-Existing Literature/Image Segmentation/Semantic/ESPNet/EdgeNets/EdgeNets
 	url = https://github.com/sacmehta/EdgeNets
-[submodule "Image Segmentation/Semantic/ESPNet/EdgeNets/ESPNetv2-COREML"]
-	path = Image Segmentation/Semantic/ESPNet/EdgeNets/ESPNetv2-COREML
+[submodule "Pre-Existing Literature/Image Segmentation/Semantic/ESPNet/EdgeNets/ESPNetv2-COREML"]
+	path = Pre-Existing Literature/Image Segmentation/Semantic/ESPNet/EdgeNets/ESPNetv2-COREML
 	url = https://github.com/sacmehta/ESPNetv2-COREML
