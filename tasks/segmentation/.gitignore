@@ -1,8 +1,0 @@
-
-*.ply
-data/scenenn_dec24_data/005/005.xml
-*.log
-*.xml
-data/scenenn_dec24_data/011/011_actions.txt
-data/scenenn_dec24_data/265/265_actions.txt
-*.hdf5
