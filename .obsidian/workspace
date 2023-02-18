@@ -1,0 +1,98 @@
+{
+  "main": {
+    "id": "0b51f212174de143",
+    "type": "split",
+    "children": [
+      {
+        "id": "09bc5505b0ee6439",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Competitions and Fairs/SSEF Stuff.md",
+            "mode": "preview",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b416fef1112588fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "f9acbb722d9d24a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7445232741e16989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f03ac4d1fa43972a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "36ded96c94a581ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "358acebcbd99a92f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e0762126ed18c6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Competitions and Fairs/SSEF Stuff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "09bc5505b0ee6439",
+  "lastOpenFiles": [
+    "Competitions and Fairs/SSEF Stuff.md",
+    "docs/logo192.png",
+    "REPORT.md",
+    "README.md",
+    "docs/logo512.png"
+  ]
+}
